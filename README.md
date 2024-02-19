@@ -14,7 +14,7 @@ If you have any problems or questions, feel free to dm me on discord or visit my
 Tip: Do this at the same time as you're initially filling the ingredients into the brewing stands to save time
 
 
-### [XL storage variant](MainBrewer/Xlstorage)
+### [XL storage variant](MainBrewer/XLstorage)
 - 6 double chests of output storage (373 full splashes in total)
 - 'rainbow' and 'lazy' variants available
 ### Large storage variant
