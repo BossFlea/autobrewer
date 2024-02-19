@@ -23,7 +23,7 @@ Tip: Do this at the same time as you're initially filling the ingredients into t
 ### [Medium storage variant](MainBrewer/MediumStorage) (recommended for most people)
 - 3 double chests of output storage (196 full splashes in total)
 - 'rainbow' and 'lazy' variants available
-### [Small storage variant](MainBrewer/SmallStorage)
+### [Small storage variant](MainBrewer/SmallStorage) (only recommended for extremely tight chest/hopper limitations)
 - 2 double chests of output storage (137 full splashes in total)
 - only 'lazy' variant available ('rainbow' variant not available due to space restrictions of the small size storage unit)
 
