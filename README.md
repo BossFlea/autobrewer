@@ -8,7 +8,8 @@ Download schematics for my Hypixel Skyblock autobrewer(s)
 - brew up to 192 splashes in one batch without refilling the potion ingredients
 - brews (coffee etc.) have to be put into the brewing stands manually due to Hypixel's mechanics (this is unavoidable with any system)
 
-<ins>**!! Important !!**</ins> The brewer will break if you don't open every brewing stand every time before starting to brew a batch of splashes! If you reload your island, this gets reset. This is another issue caused by Hypixel and is unavoidable. Tip: Do this at the same time as you're initially filling the ingredients into the brewing stands
+<ins>**!! Important !!**</ins> The brewer will break if you don't open every brewing stand every time before starting to brew a batch of splashes! If you reload your island, this gets reset. This is another issue caused by Hypixel and is unavoidable.
+Tip: Do this at the same time as you're initially filling the ingredients into the brewing stands
 
 
 ### XL storage variant
