@@ -27,6 +27,8 @@ Tip: Do this at the same time as you're initially filling the ingredients into t
 - 2 double chests of output storage (137 full splashes in total)
 - only 'lazy' variant available ('rainbow' variant not available due to space restrictions of the small size storage unit)
 
+
+
 *More variants (especially ones with reduced potion counts) and different 'upgrade modules' in progress*
 
 Note: Only use 'lazy' variants if you're *really* lazy and don't care about the potions not being in consistent rainbow order. You don't gain any functionality by building the 'lazy' variant, as you can use the rainbow variant in 'lazy' mode as well.
