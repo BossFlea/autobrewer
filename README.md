@@ -31,7 +31,7 @@ Tip: Do this at the same time as you're initially filling the ingredients into t
 
 *More variants (especially ones with reduced potion counts) and different 'upgrade modules' in progress*
 
-Note: Only use 'lazy' variants if you're *really* lazy and don't care about the potions not being in consistent rainbow order. You don't gain any functionality by building the 'lazy' variant, as you can use the rainbow variant in 'lazy' mode as well.
+Note: Only use 'lazy' variants if you don't care about the potions not necessarily being in consistent rainbow order. *(I recently discovered that the rainbow order is largely lag dependent if you're NOT using the 'rainbow' mode, so **<ins>you'll have to try what works for you</ins>. It might just work without the slower rainbow mode for you**)* You don't lose any functionality by building the 'rainbow' variant, as you can use the rainbow variant in 'lazy' mode as well.
 
 <details>
   <summary>How to use the autobrewer</summary>
