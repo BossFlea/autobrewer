@@ -40,6 +40,7 @@ Note: Only use 'lazy' variants if you're *really* lazy and don't care about the 
   - Once all brewing stands are filled, click the `Move Potions` lever. The potions will start moving down to the next layer. These ~20s are a good time to refill the agility potion's top row brewing stand with an enchanted cake from the chest above and fill your inventory with a new set of brews for the next cycle (1 brew won't fit in your inventory, use stash or ec).
   - When all the potions have finished moving down a layer, click the `Move Potions` lever again. Now repeat the two steps above until your ingredients run out.
   - To stop the awkward potions etc. from automatically being filled into the brewing stands when you want to stop brewing, set the `Enable Input` lever to off. You might also need to use this lever if the awkward potion input redstone gets stuck in the locked state while brewing.
+  - Refer to [this graphic](https://i.imgur.com/bxj9W0X.png) to learn about how to retrieve splashes and in what order to splash them
 </details>
 
 ## Alchemy 50 autobrewer (fully automatic)
