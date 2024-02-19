@@ -17,13 +17,13 @@ Tip: Do this at the same time as you're initially filling the ingredients into t
 ### [XL storage variant](MainBrewer/XLstorage)
 - 6 double chests of output storage (373 full splashes in total)
 - 'rainbow' and 'lazy' variants available
-### Large storage variant
+### [Large storage variant](MainBrewer/LargeStorage)
 - 4 double chests of output storage (255 full splashes in total)
 - 'rainbow' and 'lazy' variants available
-### Medium storage variant (recommended for most people)
+### [Medium storage variant](MainBrewer/MediumStorage) (recommended for most people)
 - 3 double chests of output storage (196 full splashes in total)
 - 'rainbow' and 'lazy' variants available
-### Small storage variant
+### [Small storage variant](MainBrewer/SmallStorage)
 - 2 double chests of output storage (137 full splashes in total)
 - only 'lazy' variant available ('rainbow' variant not available due to space restrictions of the small size storage unit)
 
@@ -43,7 +43,7 @@ Note: Only use 'lazy' variants if you're *really* lazy and don't care about the 
   - Refer to [this graphic](https://i.imgur.com/bxj9W0X.png) to learn about how to retrieve splashes and in what order to splash them
 </details>
 
-## Alchemy 50 autobrewer (fully automatic)
+## [Alchemy 50 autobrewer](Alchemy50) (fully automatic)
 ### Variants
 - Enchanted Fermented Spider Eye
 - Enchanted Sugar Cane
