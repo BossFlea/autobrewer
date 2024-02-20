@@ -6,7 +6,7 @@ If you have any problems or questions, feel free to dm me on discord or visit my
 ## Main 35-potion bingo splashes brewer
 ### General features
 - automatic input of awkward potions, xp boosts, spirit/mf etc.
-- seperate brewer to automatically fill awkward potion storages
+- seperate brewer to automatically fill awkward potion storages (--> if you're having issues with the repeaters on the top not correctly updating, try adjusting the bottom repeaters like [here](https://i.imgur.com/FZfmmJN.png). This does not affect the brewer's speed)
 - brew up to 192 splashes in one batch without refilling the potion ingredients
 - brews (coffee etc.) have to be put into the brewing stands manually due to Hypixel's mechanics (this is unavoidable with any system)
 
