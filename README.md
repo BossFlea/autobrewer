@@ -34,7 +34,7 @@ Tip: Do this at the same time as you're initially filling the ingredients into t
 Note: Only use 'lazy' variants if you don't care about the potions not necessarily being in consistent rainbow order. *(I recently discovered that the rainbow order is largely lag dependent if you're NOT using the 'rainbow' mode, so **<ins>you'll have to try what works for you</ins>. It might just work without the slower rainbow mode for you**)* You don't lose any functionality by building the 'rainbow' variant, as you can use the rainbow variant in 'lazy' mode as well.
 
 <details>
-  <summary>How to use the autobrewer</summary>
+  <summary><ins><b><i>How to use the autobrewer</i></b></ins></summary>
   
   - First make sure you have enough xp boosts, awkward potions (let the seperate brewer run for a while, also remember to manually transfer the night vision to the main brewer's invisibility input chests), spirit/mf, wisp potions etc. in the input storage, as well as enough brews in the seperate brew dispenser.
   - Then fill your chosen amount of ingredients into the brewing stands, following the carpet color coding. Make sure to also click the brewing stands that don't need any ingredients or ones that you have already filled previously!
@@ -42,7 +42,8 @@ Note: Only use 'lazy' variants if you don't care about the potions not necessari
   - Once all brewing stands are filled, click the `Move Potions` lever. The potions will start moving down to the next layer. These ~20s are a good time to refill the agility potion's top row brewing stand with an enchanted cake from the chest above and fill your inventory with a new set of brews for the next cycle (1 brew won't fit in your inventory, use stash or ec).
   - When all the potions have finished moving down a layer, click the `Move Potions` lever again. Now repeat the two steps above until your ingredients run out.
   - To stop the awkward potions etc. from automatically being filled into the brewing stands when you want to stop brewing, set the `Enable Input` lever to off. You might also need to use this lever if the awkward potion input redstone gets stuck in the locked state while brewing.
-  - Refer to [this graphic](https://i.imgur.com/bxj9W0X.png) to learn about how to retrieve splashes and in what order to splash them
+  - Refer to [this (updated) graphic](https://i.imgur.com/7oTKKl6.png) to learn about how to retrieve splashes and in what order to splash them
+    - *Make sure you don't forget any of the filler items visible in the graphic!!*
 </details>
 
 ## [Alchemy 50 autobrewer](Alchemy50) (fully automatic)
