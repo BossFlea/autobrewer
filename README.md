@@ -9,6 +9,7 @@ If you have any problems or questions, feel free to dm me on discord or visit my
 - seperate brewer to automatically fill awkward potion storages (--> if you're having issues with the repeaters on the top not correctly updating, try adjusting the bottom repeaters like [here](https://i.imgur.com/FZfmmJN.png). This does not affect the brewer's speed)
 - brew up to 192 splashes in one batch without refilling the potion ingredients
 - brews (coffee etc.) have to be put into the brewing stands manually due to Hypixel's mechanics (this is unavoidable with any system)
+- average time per 1 splash is *easily* under 20s from my experience (one half of a cycle takes ~20s, the other includes putting brews in, ~30s. 50s/3=<ins>16.67s</ins> per splash)
 
 <ins>**!! Important !!**</ins> The brewer will break if you don't open every brewing stand every time before starting a brewing session! If you reload your island, this gets reset. This is another issue caused by Hypixel and is unavoidable.
 Tip: Do this at the same time as you're initially filling the ingredients into the brewing stands to save time
