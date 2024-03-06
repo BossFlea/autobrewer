@@ -1,7 +1,9 @@
 # Hypixel Skyblock autobrewer
 This repository acts as the place to download all the schematics for my Hypixel Skyblock autobrewer(s) and learn how to use the brewers! All schematics are for [Litematica](https://www.curseforge.com/minecraft/mc-mods/litematica) (obviously the brewer is designed for Hypixel's 1.8.9 and has been thoroughly tested, I've used this brewer to brew around 1000 splashes as of feb 24). I recommend downloading litematica on the newest minecraft version (currently 1.20) and building the brewer on hypixel using this version.
 
-If you have any problems or questions, feel free to dm me on discord or visit my island on skyblock! discord: `bossflea` ign: `BossFlea`
+*Make sure to read the tips and instructions on this page, especially the `How to use the autobrewer` section!*
+
+If you have any other problems or questions, feel free to dm me on discord or visit my island on skyblock! discord: `bossflea` ign: `BossFlea`
 
 ## Main 35-potion bingo splashes brewer
 ### General features
