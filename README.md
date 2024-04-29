@@ -17,7 +17,7 @@ If you have any other problems or questions, feel free to dm me on discord or vi
 Tip: Do this at the same time as you're initially filling the ingredients into the brewing stands to save time
 
 <details>
-  <summary><ins><b><i>How to use the autobrewer</i></b></ins></summary>
+  <summary><ins><i><b>(EXPAND)</b> How to use the autobrewer</i></ins></summary>
   
   - First make sure you have enough xp boosts, awkward potions (let the seperate brewer run for a while, also remember to manually transfer the night vision to the main brewer's invisibility input chests), spirit/mf, wisp potions etc. in the input storage, as well as enough brews in the seperate brew dispenser.
   - Then fill your chosen amount of ingredients into the brewing stands, following the carpet color coding. Make sure to also click the brewing stands that don't need any ingredients or ones that you have already filled previously!
