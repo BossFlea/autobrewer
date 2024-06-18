@@ -48,7 +48,7 @@ A visual guide for the brewer in the form of a video is coming soon™️
 - 36 potion splashes
 - 2 double chests of output storage per potion (max 137 full splashes)
 ### [Money efficient variant](mainbrewer)
-- 26 potion splashes
+- 26 potion splashes ("trimmed" version)
 - 2 double chests of output storage pet potion (max 137 full splashes)
 - This variant lacks all the useless/broken potions that serve no purpose on bingo
 
