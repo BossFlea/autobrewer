@@ -1,4 +1,15 @@
 # Hypixel Skyblock autobrewer
+
+## ⚠️ Archival Notice
+At some point towards the end of 2025, Hypixel made internal changes to their implementation of redstone in SkyBlock, rendering it unusable for even the most basic circuits. I won't attempt to update these designs, and everything here should be assumed non-functional.
+
+Example of some very basic redstone after the changes:
+
+<img alt="lever on" style="width:40%; height:auto;" src="https://github.com/user-attachments/assets/ad3e083a-05d3-4537-b34b-05c6dfe99552" />
+<img alt="lever off" style="width:40%; height:auto;" src="https://github.com/user-attachments/assets/8beff87d-bc67-4182-8d62-e3aaa9bf2e43" />
+
+---
+
 This repository acts as the place to download all the schematics for my Hypixel Skyblock autobrewer(s) and learn how to use the them! All schematics are for [Litematica](https://www.curseforge.com/minecraft/mc-mods/litematica) (obviously the brewer is designed for Hypixel's 1.8.9 and has been thoroughly tested, I've used this brewer to brew over 1500 splashes as of June 2024). I recommend downloading litematica on the newest supported minecraft version (currently 1.20) and building the brewer on hypixel using this version.
 
 *Make sure to read the tips and instructions on this page, especially the `How to use the autobrewer` section!*
